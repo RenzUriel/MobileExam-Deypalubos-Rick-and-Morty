@@ -1,6 +1,7 @@
 package com.example.rickandmorty.data
 
-import com.example.rickandmorty.R
+
+import com.mobileexam.deypalubos.R
 
 val characters: List<character> = listOf(
     character(R.string.rick_sanchez, R.string.alive, R.string.human, "Type", "Male", "Earth (C-137)", "Citadel of Ricks", R.drawable.rick),
